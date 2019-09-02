@@ -1,4 +1,5 @@
-ERROR funciona
-INFO no funciona
-ERROR Funciona
+ERROR error state
+INFO info State
+ERROR error state
+WARNING warning state
  
