@@ -5,5 +5,10 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Go, with main package !!")
+	var message string
+	message = "Hi string variable"
+
+	secondMessage := ", and implicit inicialization variable"
+
+	fmt.Println(message + secondMessage)
 }
