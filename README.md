@@ -1,5 +1,8 @@
 # LearningGoCompadre
 
+###SetUp
+Download [go](https://golang.org/dl/)
+
 ##Console App 
 Console Application in Golang, Read and filter Logs
 
