@@ -11,4 +11,8 @@ func main() {
 	secondMessage := ", and implicit inicialization variable"
 
 	fmt.Println(message + secondMessage)
+
+	complexNumber := complex(4, 5)
+
+	fmt.Println(complexNumber)
 }
